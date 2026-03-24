@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Please contact us via:
+Please contact me via:
 
-- Instagram: [sfp_heidelberg](https://www.instagram.com/sfp_heidelberg);
-- Email: [sfp_heidelberg@protonmail.com](mailto:sfp_heidelberg@protonmail.com)
+- Instagram: [naive_nani](https://www.instagram.com/naive_nani);
+- Email: [moli.hd[at]protonmail.com](mailto:moli.hd@protonmail.com)
